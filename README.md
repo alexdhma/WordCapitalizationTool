@@ -1,4 +1,4 @@
-# WordCapitalizationTool
+# Word Capitalization Tool
 
 This project was created for my Principles of Programming Languages class (COMP348 - Winter 2025).
 
